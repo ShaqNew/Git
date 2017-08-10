@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:black;
+}
+
+td{
+    width: 20px;
+    height: 20px;
+}
+
+h1{
+    font-family: "Arial Black";
+    size: 25px;
+    color: white
+}
+h2{
+    font-family: "Arial Black";
+    size: 15px;
+    color: white
+}
+.blank{
+    background-color: transparent;
+}
+.snake{
+    background-color: white;
+}
+.wall{
+    background-color: grey;
+}
+.food{
+    background-color: blue;
+}
